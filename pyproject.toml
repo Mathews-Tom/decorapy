@@ -1,0 +1,7 @@
+[project]
+name = "pydeco"
+version = "0.1.0"
+description = "PyDeco - A Collection of Powerful Python Decorators"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
