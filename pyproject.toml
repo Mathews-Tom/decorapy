@@ -5,3 +5,11 @@ description = "PyDeco - A Collection of Powerful Python Decorators"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = []
+
+[build-system]
+requires = ["hatchling"]  # Use Hatch for building
+build-backend = "hatchling.build"
+
+[project.urls]
+homepage = "https://github.com/Mathews-Tom/pydeco"
+repository = "https://github.com/Mathews-Tom/pydeco"
