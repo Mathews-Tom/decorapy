@@ -1,7 +1,7 @@
 [project]
-name = "pydeco"
+name = "decorapy"
 version = "0.1.0"
-description = "PyDeco - A Collection of Powerful Python Decorators"
+description = "DecoraPy - A Collection of Powerful Python Decorators"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
@@ -13,5 +13,5 @@ requires = ["hatchling"]  # Use Hatch for building
 build-backend = "hatchling.build"
 
 [project.urls]
-homepage = "https://github.com/Mathews-Tom/pydeco"
-repository = "https://github.com/Mathews-Tom/pydeco"
+homepage = "https://github.com/Mathews-Tom/decorapy"
+repository = "https://github.com/Mathews-Tom/decorapy"

@@ -7,17 +7,17 @@ import logging
 import time
 
 # Import necessary modules and decorators
-from pydeco.benchmark import benchmark
-from pydeco.circuit_breaker import CircuitBreaker
-from pydeco.log_calls import log_calls
-from pydeco.lru_memoize import lru_memoize
-from pydeco.memoization import memoize
-from pydeco.retry import retry
-from pydeco.singleton import singleton
-from pydeco.throttle import throttle
-from pydeco.timing import timer
-from pydeco.trace import trace
-from pydeco.validation import validate
+from decorapy.benchmark import benchmark
+from decorapy.circuit_breaker import CircuitBreaker
+from decorapy.log_calls import log_calls
+from decorapy.lru_memoize import lru_memoize
+from decorapy.memoization import memoize
+from decorapy.retry import retry
+from decorapy.singleton import singleton
+from decorapy.throttle import throttle
+from decorapy.timing import timer
+from decorapy.trace import trace
+from decorapy.validation import validate
 
 # Configure basic logging
 logging.basicConfig(
